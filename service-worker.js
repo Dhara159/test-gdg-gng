@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/<test-gdg-gng>/precache-manifest.c75db089e396244ecdf5cda879790396.js"
+  "/test-gdg-gng/precache-manifest.40c3bfebb55d543cf4950685f7728a02.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gdg-web-app"});
